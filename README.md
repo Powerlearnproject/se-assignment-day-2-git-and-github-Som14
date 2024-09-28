@@ -489,11 +489,7 @@ o	Pull changes from the main branch frequently to ensure your branch stays up-to
 o	Resolve merge conflicts early to avoid them piling up.
 3.	Write Descriptive Commit Messages:
 o	Use clear and concise commit messages that explain the changes made, not just "fix bug" or "update file."
-o	Follow a consistent format, such as:
-css
-Copy code
-[Component] Brief description of the change
-- Additional details or context, if necessary
+o	Follow a consistent format
 4.	Use Pull Requests for All Changes:
 o	Even small changes should go through the pull request process. This encourages collaboration, facilitates code review, and allows the team to catch potential issues early.
 o	When submitting a pull request, provide a detailed description of what the change accomplishes, why it’s needed, and how it was tested.
